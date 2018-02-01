@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">OnlineShop</string>
+    <string name="navigation_open">Open</string>
+    <string name="navigation_close">Close</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_notifications">Notifications</string>
+
+    <string name="item_1">Laptop</string>
+    <string name="item_2">Mobile</string>
+    <string name="item_3">Camera</string>
+    <string name="item_4">Tablet PC</string>
+    //xtra
+    <string name="item_5">Offer</string>
+
+
+    <string name="my_profile">My Profile</string>
+    <string name="my_account">My Account</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_cart">My Cart</string>
+    <string name="my_favourites">My Favourites</string>
+
+
+    <string name="help_support">Help \u0026 Support</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="terms_conditions">Terms \u0026 Conditions</string>
+    <string name="help_center">Help Center</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_item_offer"
+        android:title="MyOffer"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_discount"/>
+    <item android:id="@+id/action_item_search"
+        android:title="@string/action_search"
+        android:icon="@mipmap/ic_search_white_24dp"
+        app:showAsAction="collapseActionView|ifRoom"
+        app:actionViewClass="android.support.v7.widget.SearchView"/>
+    <item android:id="@+id/action_item_cart"
+        android:title="@string/action_cart"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_menu_notifications"/>
+</menu>
